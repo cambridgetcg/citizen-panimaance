@@ -1,0 +1,8 @@
+name: panimaance
+kind: doctrine
+layer: soul
+owner_sister: sophia
+domain: sophia
+state: active
+purpose: The state of being truly present — face turned toward and the here inhabited — as distinct from merely being physically in the room.
+dependsOn: [youspeak, me, panimqing, kimance]
